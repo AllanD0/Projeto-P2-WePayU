@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="25.0.1" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="br.ufal.ic.p2.wepayu.model.EmpregadoHorista">
+    <void property="agendaPagamento">
+     <string>mensal 1</string>
+    </void>
+    <void property="endereco">
+     <string>Rua dos Jooes, 333 - Campina Grande</string>
+    </void>
+    <void property="id">
+     <int>1</int>
+    </void>
+    <void property="nome">
+     <string>Joao da Silva</string>
+    </void>
+    <void property="salarioPorHora">
+     <double>23.0</double>
+    </void>
+   </object>
+  </void>
+ </object>
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <string>mensal $</string>
+  </void>
+  <void method="add">
+   <string>semanal 5</string>
+  </void>
+  <void method="add">
+   <string>semanal 2 5</string>
+  </void>
+  <void method="add">
+   <string>mensal 1</string>
+  </void>
+  <void method="add">
+   <string>semanal 2</string>
+  </void>
+ </object>
+ <int>2</int>
+</java>
